@@ -4,7 +4,7 @@ Neural Network course at "La Sapienza University of Rome"
 Neural network that colors black and white images.
 
 ## Project Contributors
-Omar Bayoumi, Graziano Specchi
+Cristiano Bellucci, Omar Bayoumi, Graziano Specchi
 
 ## N.B. This repository is a revisited work. The original project was published by the authors listed below.
   
